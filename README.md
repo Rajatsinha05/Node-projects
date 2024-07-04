@@ -1,1 +1,1 @@
-node js project wtih automate result with cypress
+# Node.js project with automated testing using Cypress
